@@ -1,5 +1,4 @@
-# Computational Mathematics - AI Training Portfolio
-
+# Computational Mathematics 
 
 
 ### Skills Demonstrated
