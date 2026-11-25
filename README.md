@@ -1,8 +1,6 @@
 # Computational Mathematics - AI Training Portfolio
 
-This repository demonstrates end-to-end workflows for advanced mathematical problem-solving: **translating math → executable code → numerical validation.**
 
-Portfolio for Senior Mathematics Expert (USD 80-120/hr) - Advanced Math to AI Training Workflows
 
 ### Skills Demonstrated
 **Math Areas:** Numerical Analysis, Optimization, Probability & Statistics, Symbolic Math, Linear Programming
